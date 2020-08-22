@@ -1,4 +1,4 @@
-# snakegame
+# Jogo da Cobrinha
 Jogo da Cobrinha 🐍
 JavaScript puro (sem framework ou libraries)
 
