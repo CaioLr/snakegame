@@ -1,2 +1,3 @@
 # snakegame
-Snake Game
+Jogo da Cobrinha 🐍
+JavaScript puro (sem framework ou libraries)
