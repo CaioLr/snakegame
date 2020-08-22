@@ -135,9 +135,9 @@ function jogo(){
     }
 
     //score
-    var passwd = document.querySelector("h1")
+    var passwd = document.querySelector("h1");
     passwd.textContent = "Score: "+score;
     //score máximo
-    var caiolr = document.querySelector("h2")
+    var caiolr = document.querySelector("h2");
     caiolr.textContent = "Score Máximo: "+scoremax;
 }
