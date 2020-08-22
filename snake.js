@@ -3,7 +3,7 @@ var canvas = document.getElementById("canv");
 var ctx = canvas.getContext("2d");
 
 setInterval(jogo, 60);  //fazendo o js rodar constantemente
-document.addEventListener("keydown",start); //para usar teclas na função start
+document.addEventListener("keydown",start); //para usar teclas na function start
 
 var vmx = 0;    //variável de movimento eixo X
 var vmy = 0;    //variável de movimento eixo X
